@@ -31,7 +31,7 @@
 import random
 
 while True:
-top_of_range = input("Type a number: ")  # returns a string
+    top_of_range = input("Type a number: ")  # returns a string
 
 if top_of_range.isdigit():  # isdigit() function checks if user entered a number?
     top_of_range = int(top_of_range)  # convert string to integer using int
