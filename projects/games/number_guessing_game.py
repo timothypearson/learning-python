@@ -39,10 +39,10 @@ if top_of_range.isdigit():  # isdigit() function checks if user entered a number
     if top_of_range <= 0:    # Bug negative integers are not recognised here because of the isdigit() function only works with positive integers
         print("Please type a number larger than 0 next time.")
         continue
-else:
-    print("Please type a number next time.")
-    continue
-break
+    else:
+        print("Please type a number next time.")
+        continue
+    break
 
 # Random Number Guessing Game 
 
