@@ -42,7 +42,7 @@ if top_of_range.isdigit():  # isdigit() function checks if user entered a number
     else:
         print("Please type a number next time.")
         continue
-break
+    break
 
 # Random Number Guessing Game 
 
