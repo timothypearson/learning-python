@@ -1,6 +1,7 @@
 # Date 25 Aug 2021
 # Mini Python - For Beginners Exercise by #TechwithTim known as Tim Ruscica
 # Youtube link: https://www.youtube.com/watch?v=DLn3jOsNRVE&t=1933s
+# Number guessing game
 
 # My Exercise Objectives
     # No.1 write out the code outlined by #TechwithTim exercise
