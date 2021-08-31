@@ -48,9 +48,9 @@ is_tall = True
 
 if is_male and is_tall:
     print("You are a tall male\n")
-elif is_male and not (is_tall):
+elif is_male:
     print("You are a short male")
-elif not (is_male) and is_tall:
+elif is_tall:
     print("You are either not a male but are tall")
 else:
     print('You are not a male or not tall\n')

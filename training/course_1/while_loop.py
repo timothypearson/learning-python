@@ -10,11 +10,8 @@
 # a loop condition , loop guard, keep loop if true
 # while loop a powerful structure
 
-i = 1
-while i <= 10:
+for i in range(1, 11):
     print(i)
-    i += 1     # i = i + 1 python shorthand i +- 1
-
 print("Done with loop")
 
 # Guessing Game - without limits
