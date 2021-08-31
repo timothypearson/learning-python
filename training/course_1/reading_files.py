@@ -15,12 +15,11 @@
 
 
 
-employee_file = open("employees.txt", "r") # source file is in current working dir/
-# print(employee_file.readable())
+with open("employees.txt", "r") as employee_file:
+    # print(employee_file.readable())
 
-for employee in employee_file.readlines():
-    print(employee)
-employee_file.close()
+    for employee in employee_file.readlines():
+        print(employee)
 
 # print(employee_file.readline() reads each line of the source file
 # # print(employee_file.readlines()[] takes each line and puts it into an array

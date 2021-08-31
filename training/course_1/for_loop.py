@@ -25,8 +25,8 @@ for index in range(3, 10):
     print(index)
 
 # loop through length of array
-for index in range(len(friends)):
-    print(friends[index])
+for friend_ in friends:
+    print(friend_)
 
 for index in range(5):
     if index == 0:
