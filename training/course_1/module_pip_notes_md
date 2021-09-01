@@ -1,0 +1,39 @@
+Exercise: Module & PIP Notes
+Date: 01 Sep 2021
+
+Learn python - Full Course for Beginners [Tutorial]
+https://www.youtube.com/watch?v=rfscVS0vtbw
+FreeCodeCamp.org
+FCourse developed by Mike Dane.
+
+Tutorial is uses PY Charm IDE showing modules and pip usage
+
+import useful tools files for example
+
+ (insert pic)
+
+Gives the programmer access to everything in that module
+Using internal and external modules and self-created modules is a CORE CONCEPT in python
+Write it once and reference it in another program
+
+List of modules accessible to make your programs better
+Example: https://docs.python.org/3/py-modindex.html
+There are many third-party modules, if you get good looking and finding modules you will save yourself time in coding
+Where are all the modules stored (source code) two types of module: 1) built modules in the python language 2) external modules
+# lib folder storing all all these external modules
+# look up useful python modules
+
+There are many third-party modules, if you get good looking and finding module it will save yourself time in coding. Two types of modules: 1) built modules in the python language 2) external modules
+Where are all the modules stored (source code) 
+lib folder (PYCharm IDE) storing all these external modules
+
+  (insert pic)
+
+Look up useful modules python on the web there are many
+
+# python-docx example module
+# pip used to install modules. pip is a package manager. it comes pre-installed on python 3
+
+  (insert pic)
+
+
